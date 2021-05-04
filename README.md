@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-[DEMO](codemunha.github.io/pft-app/)
+[DEMO](https://codemunha.github.io/pft-app/)
